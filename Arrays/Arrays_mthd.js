@@ -5,7 +5,7 @@ console.log(b,typeof b)
 let c = num. join("and")
 console. log(c, typeof c)
 // num.pop()
-// let r = num.pop() // pop retur ns the popped element
+// let r = num.pop() // pop returns the popped element
 // console.log(num,r)
 // let s = num.push(56)
 // console.log(num,s)
@@ -49,3 +49,5 @@ let n = [551, 22, 3, 14, 5, 6, 7, 8, 229]
 // let newNum = num. slice(3)
 let newNum = n. slice(3, 5)
 console. log(newNum)
+
+

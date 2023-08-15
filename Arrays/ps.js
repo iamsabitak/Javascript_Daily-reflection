@@ -35,3 +35,4 @@ let n1 = arr4. reduce( (x1, x2) => {
 return x1 * x2
 })
  console. log (n1)
+   
