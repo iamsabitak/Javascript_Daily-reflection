@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+    color: blue;
+    background-image: url("https://images-ng.pixai.art/images/thumb/516a8b67-62a1-4021-b973-1f8a0447b0b0");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
