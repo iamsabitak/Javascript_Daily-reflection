@@ -1,0 +1,7 @@
+body{
+    background-color: aqua;
+}
+.div,p,span{
+    color: red;
+    background-color: rgb(134, 16, 244);
+}
