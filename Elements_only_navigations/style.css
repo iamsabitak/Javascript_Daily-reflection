@@ -9,7 +9,7 @@ html,body{
 ul{
 display: flex;
 background-color: blueviolet;
-margin: 0;
+margin: 0; 
 padding:15px 0;
 
 }
