@@ -10,8 +10,7 @@ let p = new Promise((resolve, reject) => {
 p.then(() => {
     console.log("Hello")
     return new Promise((resolve, reject) => {
-        setTimeout(()=>{
-resolve(4)},3000)
+        setTimeout(()=>{resolve(4)},3000)
         }).then((value)=>{console.log(value)})
        })
 
