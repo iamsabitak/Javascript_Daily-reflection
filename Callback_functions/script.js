@@ -11,7 +11,7 @@ function loadScript(src, Callbacks) {
         Callbacks(new Error("Src got some error"))
     }
     document.body.appendChild(script);
-    }
+     }
     function goodmorning(error, src) {
         if (error) {
         console. log(error)
