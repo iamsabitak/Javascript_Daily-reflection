@@ -15,5 +15,5 @@ finally{
 // Write to the log file
 }
 }
-console.log("End");
 f();
+console.log("End");
