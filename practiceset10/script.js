@@ -28,7 +28,8 @@ let sleep = async()=> {
 })
 }
     const showHack = async (message)=>{
-        await sleep(2)
+        // await sleep(2)
+        await sleep()
         // console.log (message)
         text.innerHTML = text.innerHTML + message + "<br>"
     }

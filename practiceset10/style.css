@@ -6,3 +6,11 @@ body,html{
  font-size: large;
  background-clip: content-box;
 }
+.video-wrapper{
+    padding: 10px;
+    margin: 10px;
+    background-position:center;
+    background-attachment: scroll;
+    align-items: center;
+
+}
