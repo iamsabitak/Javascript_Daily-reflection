@@ -1,0 +1,8 @@
+body,html{
+    background-color: black;
+    /* background-image: url("https://www.wikihow.com/images/thumb/b/b6/Make-It-Look-Like-You-Are-Hacking-Step-11-Version-4.jpg/v4-460px-Make-It-Look-Like-You-Are-Hacking-Step-11-Version-4.jpg"); */
+    color: green;
+ font-family:'Courier New', Courier, monospace;
+ font-size: large;
+ background-clip: content-box;
+}
