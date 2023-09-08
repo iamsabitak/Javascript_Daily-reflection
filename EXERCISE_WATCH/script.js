@@ -1,5 +1,5 @@
 setInterval(() => {
-	d = new Date(); //object of date()
+	// d = new Date(); //object of date()
 	hr = d.getHours();
 	min = d.getMinutes();
 	sec = d.getSeconds();
@@ -12,3 +12,4 @@ setInterval(() => {
 	second.style.transform = `rotate(${sec_rotation}deg)`;
 }, 1000);
 
+// 

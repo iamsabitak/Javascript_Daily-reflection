@@ -4,12 +4,12 @@ for(let i=0; i<num. length; i++){
 
     // ForEach Loop
     num.forEach((element) => {
-        console.log(element * element)
+        console.log(element * element + "forEach")
     })
 
     // Array.from
 let name = "Sabita "
-let arr = Array. from( name )
+let arr = Array. from(name )
 console. log(arr)
 
 // for...of
