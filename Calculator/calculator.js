@@ -1,4 +1,3 @@
-// program for a simple calculator
 
 // taking the operator input
 const operator = prompt('Enter operator ( +, -, *, / ): ');
