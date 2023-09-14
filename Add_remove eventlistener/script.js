@@ -7,8 +7,8 @@ let s = function(e){
     }
 // let x = red.addEventListener('click',function(e){
 //     alert('HELLO 1')
-//     console.log(e)
-//     console.log(e.target)
+    // console.log(e)
+    // console.log(e.target)
 //     console.log(e.type)
 //     console.log(e.currentTarget)
 //     console.log(e.clientX)
